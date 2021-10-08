@@ -1,0 +1,1 @@
+Git no deja hacer commit cuando una carpeta esta vacia
